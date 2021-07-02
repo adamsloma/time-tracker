@@ -1,0 +1,12 @@
+:root {
+	--smokey-black: hsla(330, 10%, 8%, 1);
+	--raisin-black: hsla(336, 7%, 15%, 1);
+	--black-coffee: hsla(343, 6%, 21%, 1);
+	--dark-liver: hsla(350, 4%, 31%, 1);
+	--dim-gray: hsla(348, 2%, 40%, 1);
+	--spanish-gray: hsla(345, 2%, 59%, 1);
+	--silver: hsla(0, 2%, 78%, 1);
+	--gainsboro: hsla(0, 1%, 87%, 1);
+	--platinum: hsla(0, 2%, 92%, 1);
+	--cultured: hsla(0, 0%, 96%, 1);
+}
